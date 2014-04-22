@@ -1,0 +1,13 @@
+body {
+	font-size:30px;
+	color: red;
+}
+
+span {
+	font-size:20px;
+	color: blue;
+}
+
+.fluffy {
+	font-family: courier;
+}
